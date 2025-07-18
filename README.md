@@ -1,7 +1,7 @@
 <div align="center">
 
 # 특허톡 (Pat-talk): AI 기반 출원 서류 자동 점검 및 우선심사 분류 시스템
-**AIVLE 5기 AI Track 7조 미니프로젝트**
+**AIVLE 5기 AI Track 7조 빅프로젝트**
 
 <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
